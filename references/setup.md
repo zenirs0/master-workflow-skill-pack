@@ -1,0 +1,6 @@
+# Set up on another account
+
+- **Immediate use.** Attach the [standalone master Markdown](standalone-master.md) to the new ChatGPT or Claude chat or project and say: “Use this Master Workflow playbook for my request. Pick the relevant workflow, do the work, and report what you verified.”
+- **Skill reuse.** The repository root and standalone edition include Agent Skills frontmatter. On compatible hosts, use the documented custom-skill import or place it in its own project skill folder as `SKILL.md`. Use [ChatGPT Skills](https://help.openai.com/en/articles/20001066-skills-in-chatgpt), [Codex Skills](https://developers.openai.com/codex/skills), [Claude Code Skills](https://code.claude.com/docs/en/skills), or [Claude custom skills](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills).
+- **Connections.** Connect the applications required for a task on the new account. The old account’s plugin connections, permissions, subscriptions, local Studio session, and tool runtimes are account- or device-specific. Check availability before claiming that a workflow ran.
+- **Project context.** Confirm the current repository, deployment targets, and service connections when the task depends on them.

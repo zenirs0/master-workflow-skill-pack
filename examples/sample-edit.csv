@@ -1,0 +1,4 @@
+clip_id,source_file,source_in_s,source_out_s,timeline_in_s,timeline_out_s,video_treatment,audio_treatment,caption
+setup,../assets/sample-video.mp4,0,2,0,2,Frame without cropping,Match narration level,Synthetic sample
+action,../assets/sample-video.mp4,2,4,2,4,Check crop around test pattern,Check tone continuity,Check framing and timing
+result,../assets/sample-video.mp4,4,6,4,6,Check safe space for captions,Fade end if desired,Verify the export

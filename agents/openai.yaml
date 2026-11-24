@@ -1,0 +1,4 @@
+interface:
+  display_name: "Master Workflow"
+  short_description: "Verified workflows for coding, design, and video"
+  default_prompt: "Use $master-workflow to select a playbook, complete my deliverable, and report verification."
